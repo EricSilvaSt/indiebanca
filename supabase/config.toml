@@ -1,0 +1,6 @@
+project_id = "zobbjjccwfsvwxqyasps"
+
+[api]
+enabled = true
+schemas = ["indiebanca", "graphql_public"]
+extra_search_path = ["indiebanca", "extensions"]
